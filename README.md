@@ -71,10 +71,9 @@ EMS-App/
 │   └── LocalNotification.js
 ├── App.js
 └── ...
+```
 
-
-
-
+##UI 
 
 This UI design was created as an initial concept at the early stage of the project. It represents the ideal user interface and experience we aimed to build for the EMS application.
 
