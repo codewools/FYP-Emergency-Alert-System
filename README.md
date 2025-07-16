@@ -1,5 +1,6 @@
-PROJECT IS COMPLETED IN (NOVEMBER, 2024) BUT ITS' NOT PUBLISHED YET, CONTACT FOR THE PROJECT & INSTRUCTIONS 
-
+Completed: November 2024
+Status: Not published
+Contact for demo or instructions
 # 🚨 EMS - Emergency Alert System App
 
 EMS is a real-time mobile emergency alert system built using **React Native**. It enables users to send SOS alerts, receive suspicious activity notifications, and monitor their surroundings using integrated CCTV + AI technology.
